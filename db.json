@@ -1,8 +1,17 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    {
+      "id": 1,
+      "title": "Black T-Shirt",
+      "price": "135",
+      "image": "https://static-01.daraz.pk/p/0e2b6c3e0d15630bcfff1a201fdf3330.jpg"
+    },
+    {
+      "id": 1,
+      "title": "AJ Style Shirt",
+      "price": "89",
+      "image": "https://static-01.daraz.pk/p/34d887caad06c5f82dd8b8d239aa26dd.jpg"
+    }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
